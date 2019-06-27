@@ -11,6 +11,13 @@ The third column is the Destination Unit, in this case C of Celcius.
 but it could be any other such as F or K which are the only ones available. 
 The Fourth Column is the result of the change of temperature to another.
 
+Example Visual: So you should see the data in the file that you want to pass to the program.
+
+ ![May The Force Be With You](./Image%20Diagrams/Example.png)
+
+
+Link del archivo de ejemplo por si quiere ver una prueba en .txt .[Click Here](./Example/example.png)
+
 Rule: Everything is pasted but separated by comma as in the example.
 
 RunTime: You need the following in this repository is the file UniversalTranlator.cs 

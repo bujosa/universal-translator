@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\bin\Debug\netcoreapp2.1\UniversalTranslator.deps.json
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\bin\Debug\netcoreapp2.1\UniversalTranslator.runtimeconfig.json
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\bin\Debug\netcoreapp2.1\UniversalTranslator.runtimeconfig.dev.json
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\bin\Debug\netcoreapp2.1\UniversalTranslator.dll
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\bin\Debug\netcoreapp2.1\UniversalTranslator.pdb
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\obj\Debug\netcoreapp2.1\UniversalTranslator.csprojAssemblyReference.cache
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\obj\Debug\netcoreapp2.1\UniversalTranslator.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\obj\Debug\netcoreapp2.1\UniversalTranslator.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\obj\Debug\netcoreapp2.1\UniversalTranslator.AssemblyInfo.cs
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\obj\Debug\netcoreapp2.1\UniversalTranslator.dll
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\obj\Debug\netcoreapp2.1\UniversalTranslator.pdb

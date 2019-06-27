@@ -1,0 +1,17 @@
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\UniversalTranslatorTest.deps.json
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\UniversalTranslatorTest.runtimeconfig.json
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\UniversalTranslatorTest.runtimeconfig.dev.json
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\UniversalTranslatorTest.dll
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\obj\Debug\netcoreapp2.1\UniversalTranslatorTest.csprojAssemblyReference.cache
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\obj\Debug\netcoreapp2.1\UniversalTranslatorTest.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\obj\Debug\netcoreapp2.1\UniversalTranslatorTest.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\obj\Debug\netcoreapp2.1\UniversalTranslatorTest.AssemblyInfo.cs
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\UniversalTranslatorTest.pdb
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\UniversalTranslator.dll
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\bin\Debug\netcoreapp2.1\UniversalTranslator.pdb
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\obj\Debug\netcoreapp2.1\UniversalTranslatorTest.csproj.CopyComplete
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\obj\Debug\netcoreapp2.1\UniversalTranslatorTest.dll
+C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslatorTest\obj\Debug\netcoreapp2.1\UniversalTranslatorTest.pdb
