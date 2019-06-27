@@ -16,7 +16,7 @@ Example Visual: So you should see the data in the file that you want to pass to 
  ![May The Force Be With You](./Image%20Diagrams/Example.png)
 
 
-Link del archivo de ejemplo por si quiere ver una prueba en .txt .[Click Here](./Example/example.png)
+Link del archivo de ejemplo por si quiere ver una prueba en .txt [Click Here](./Example/example.txt)
 
 Rule: Everything is pasted but separated by comma as in the example.
 
