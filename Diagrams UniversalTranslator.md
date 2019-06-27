@@ -7,4 +7,4 @@ HINT: To see the diagrams, press the following URLS.
 
    Diagram Class UML clic here: https://github.com/bujosa/UniversalTranslator/blob/master/Image%20Diagrams/Diagram_Class_UniversalTranslator.png
 
-   .[May The Force Be With You](./Image%20Diagrams/CRC_UniversalTranslator.png)
+   ![May The Force Be With You](./Image%20Diagrams/CRC_UniversalTranslator.png)
