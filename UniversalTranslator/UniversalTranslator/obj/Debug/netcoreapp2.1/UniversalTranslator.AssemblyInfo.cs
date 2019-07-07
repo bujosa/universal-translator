@@ -11,11 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("UniversalTranslator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Bujosa Developers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("\r\nThis program consists of receiving a file with conversions from one temperature" +
+    " to another. And the algorithm converts them and prints them in a file.txt")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("UniversalTranslator")]
+[assembly: System.Reflection.AssemblyProductAttribute("Convertor Temperature")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniversalTranslator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

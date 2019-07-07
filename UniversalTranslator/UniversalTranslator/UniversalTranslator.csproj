@@ -3,6 +3,20 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>David Bujosa</Authors>
+    <Product>Convertor Temperature</Product>
+    <Description>
+This program consists of receiving a file with conversions from one temperature to another. And the algorithm converts them and prints them in a file.txt</Description>
+    <RepositoryUrl>https://github.com/bujosa/UniversalTranslator</RepositoryUrl>
+    <RepositoryType>Open Source</RepositoryType>
+    <PackageLicenseUrl>https://github.com/bujosa/UniversalTranslator/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/bujosa/UniversalTranslator</PackageProjectUrl>
+    <Company>Bujosa Developers</Company>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <NeutralLanguage />
+    <PackageTags>FirtsVersion</PackageTags>
+    <PackageIconUrl>https://comofuncionaque.com/wp-content/uploads/2015/08/temperatura-frio-calor1.jpg</PackageIconUrl>
   </PropertyGroup>
 
 </Project>

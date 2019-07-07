@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UniversalTranslator</id>
+    <version>1.0.0</version>
+    <authors>David Bujosa</authors>
+    <owners>David Bujosa</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/bujosa/UniversalTranslator/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/bujosa/UniversalTranslator</projectUrl>
+    <iconUrl>https://comofuncionaque.com/wp-content/uploads/2015/08/temperatura-frio-calor1.jpg</iconUrl>
+    <description>This program consists of receiving a file with conversions from one temperature to another. And the algorithm converts them and prints them in a file.txt</description>
+    <tags>FirtsVersion</tags>
+    <repository type="Open Source" url="https://github.com/bujosa/UniversalTranslator" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\bin\Debug\netcoreapp2.1\UniversalTranslator.runtimeconfig.json" target="lib\netcoreapp2.1\UniversalTranslator.runtimeconfig.json" />
+    <file src="C:\Users\David\Desktop\UniversalTranslator\UniversalTranslator\UniversalTranslator\UniversalTranslator\bin\Debug\netcoreapp2.1\UniversalTranslator.dll" target="lib\netcoreapp2.1\UniversalTranslator.dll" />
+  </files>
+</package>
